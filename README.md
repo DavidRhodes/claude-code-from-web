@@ -2,6 +2,7 @@
 
 A simple starter web page app — plain HTML, CSS, and JavaScript with no build tools required.
 
+
 ## Getting started
 
 Open `index.html` directly in your browser, or serve it locally:
@@ -11,6 +12,17 @@ python3 -m http.server 8000
 ```
 
 Then visit http://localhost:8000.
+
+OR
+
+Publish using Github Pages:
+You are not able to publish wirh Pages using the GitHub mobile app. 
+Instead, using a web browser, open https://github.com/DavidRhodes/claude-code-from-web/settings/pages
+open the repo, navigate to Settings, then Pages and enable. 
+https://github.com/DavidRhodes/claude-code-from-web/settings/pages
+
+Published at:
+https://davidrhodes.github.io/claude-code-from-web/
 
 ## Files
 
